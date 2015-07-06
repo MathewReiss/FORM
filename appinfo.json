@@ -1,0 +1,100 @@
+{
+    "appKeys": {
+        "THEME": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "MathewReiss",
+    "longName": "FORM",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/digit_9.png",
+                "name": "DIGIT_9",
+                "type": "png"
+            },
+            {
+                "file": "images/digit_8.png",
+                "name": "DIGIT_8",
+                "type": "png"
+            },
+            {
+                "file": "images/digit_7.png",
+                "name": "DIGIT_7",
+                "type": "png"
+            },
+            {
+                "file": "images/digit_6.png",
+                "name": "DIGIT_6",
+                "type": "png"
+            },
+            {
+                "file": "images/digit_5.png",
+                "name": "DIGIT_5",
+                "type": "png"
+            },
+            {
+                "file": "images/digit_4.png",
+                "name": "DIGIT_4",
+                "type": "png"
+            },
+            {
+                "file": "images/digit_3.png",
+                "name": "DIGIT_3",
+                "type": "png"
+            },
+            {
+                "file": "images/digit_2.png",
+                "name": "DIGIT_2",
+                "type": "png"
+            },
+            {
+                "file": "images/digit_1.png",
+                "name": "DIGIT_1",
+                "type": "png"
+            },
+            {
+                "file": "images/digit_0.png",
+                "name": "DIGIT_0",
+                "type": "png"
+            },
+            {
+                "file": "images/bg_special_right.png",
+                "name": "BG_SPECIAL_RIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/bg_special_left.png",
+                "name": "BG_SPECIAL_LEFT",
+                "type": "png"
+            },
+            {
+                "file": "images/bg_right.png",
+                "name": "BG_RIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/bg_left.png",
+                "name": "BG_LEFT",
+                "type": "png"
+            },
+            {
+                "file": "images/colon.png",
+                "name": "COLON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "FORM",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "4a07d0de-4567-4d40-af5e-dd7b79deb7b1",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
